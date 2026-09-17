@@ -1,0 +1,10 @@
+========================================
+             SALES RECEIPT              
+========================================
+Product : Wireless Keyboard Pro
+ID      : 100
+Quantity: 6
+Unit price: $30.00
+Total   : $180.00
+Remaining stock: 4
+========================================

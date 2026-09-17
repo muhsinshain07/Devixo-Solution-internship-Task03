@@ -1,0 +1,206 @@
+Inventory records loaded.
+
+========================================
+       INVENTORY MANAGEMENT SYSTEM      
+========================================
+1. Add product
+2. Update product
+3. Delete product
+4. Search product
+5. View inventory
+6. Inventory reports
+7. Sell product / generate receipt
+8. Save inventory
+9. Reload inventory
+0. Exit
+========================================
+Choose an option: 
+--- Add Product ---
+Product ID: Product name: Quantity: Price: $Low-stock threshold: Product type (1=Standard, 2=Discounted): Product added and inventory saved.
+
+========================================
+       INVENTORY MANAGEMENT SYSTEM      
+========================================
+1. Add product
+2. Update product
+3. Delete product
+4. Search product
+5. View inventory
+6. Inventory reports
+7. Sell product / generate receipt
+8. Save inventory
+9. Reload inventory
+0. Exit
+========================================
+Choose an option: 
+--- Add Product ---
+Product ID: Product name: Quantity: Price: $Low-stock threshold: Product type (1=Standard, 2=Discounted): Discount percentage: Product added and inventory saved.
+
+========================================
+       INVENTORY MANAGEMENT SYSTEM      
+========================================
+1. Add product
+2. Update product
+3. Delete product
+4. Search product
+5. View inventory
+6. Inventory reports
+7. Sell product / generate receipt
+8. Save inventory
+9. Reload inventory
+0. Exit
+========================================
+Choose an option: 
+--- Current Inventory ---
+ID      Name                       Type                 Qty       Price       Stock
+-----------------------------------------------------------------------------------
+100     Wireless Keyboard          Standard               8       25.00          OK
+200     USB Mouse                  Discounted             3       18.00         LOW
+
+========================================
+       INVENTORY MANAGEMENT SYSTEM      
+========================================
+1. Add product
+2. Update product
+3. Delete product
+4. Search product
+5. View inventory
+6. Inventory reports
+7. Sell product / generate receipt
+8. Save inventory
+9. Reload inventory
+0. Exit
+========================================
+Choose an option: 
+--- Inventory Report ---
+Total products : 2
+Available stock: 11 units
+Inventory value: $254.00
+Low-stock items: 1
+
+========================================
+       INVENTORY MANAGEMENT SYSTEM      
+========================================
+1. Add product
+2. Update product
+3. Delete product
+4. Search product
+5. View inventory
+6. Inventory reports
+7. Sell product / generate receipt
+8. Save inventory
+9. Reload inventory
+0. Exit
+========================================
+Choose an option: Enter product name or type: 
+--- Search Results ---
+ID: 100 | Wireless Keyboard | Type: Standard | Quantity: 8 | Price: $25.00
+
+========================================
+       INVENTORY MANAGEMENT SYSTEM      
+========================================
+1. Add product
+2. Update product
+3. Delete product
+4. Search product
+5. View inventory
+6. Inventory reports
+7. Sell product / generate receipt
+8. Save inventory
+9. Reload inventory
+0. Exit
+========================================
+Choose an option: 
+--- Update Product ---
+Product ID: New product name: New quantity: New price: $New low-stock threshold: Product updated and inventory saved.
+
+========================================
+       INVENTORY MANAGEMENT SYSTEM      
+========================================
+1. Add product
+2. Update product
+3. Delete product
+4. Search product
+5. View inventory
+6. Inventory reports
+7. Sell product / generate receipt
+8. Save inventory
+9. Reload inventory
+0. Exit
+========================================
+Choose an option: 
+--- New Sale ---
+Product ID: Quantity to sell: Sale completed. Receipt saved to last_receipt.txt.
+Total: $180.00
+LOW STOCK ALERT: reorder this product soon.
+
+========================================
+       INVENTORY MANAGEMENT SYSTEM      
+========================================
+1. Add product
+2. Update product
+3. Delete product
+4. Search product
+5. View inventory
+6. Inventory reports
+7. Sell product / generate receipt
+8. Save inventory
+9. Reload inventory
+0. Exit
+========================================
+Choose an option: 
+--- Inventory Report ---
+Total products : 2
+Available stock: 7 units
+Inventory value: $174.00
+Low-stock items: 2
+
+========================================
+       INVENTORY MANAGEMENT SYSTEM      
+========================================
+1. Add product
+2. Update product
+3. Delete product
+4. Search product
+5. View inventory
+6. Inventory reports
+7. Sell product / generate receipt
+8. Save inventory
+9. Reload inventory
+0. Exit
+========================================
+Choose an option: 
+--- Delete Product ---
+Product ID: Product deleted and inventory saved.
+
+========================================
+       INVENTORY MANAGEMENT SYSTEM      
+========================================
+1. Add product
+2. Update product
+3. Delete product
+4. Search product
+5. View inventory
+6. Inventory reports
+7. Sell product / generate receipt
+8. Save inventory
+9. Reload inventory
+0. Exit
+========================================
+Choose an option: Inventory reloaded successfully.
+
+========================================
+       INVENTORY MANAGEMENT SYSTEM      
+========================================
+1. Add product
+2. Update product
+3. Delete product
+4. Search product
+5. View inventory
+6. Inventory reports
+7. Sell product / generate receipt
+8. Save inventory
+9. Reload inventory
+0. Exit
+========================================
+Choose an option: Inventory saved. Goodbye!

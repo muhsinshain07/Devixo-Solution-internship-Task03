@@ -1,0 +1,65 @@
+Inventory records loaded.
+
+========================================
+       INVENTORY MANAGEMENT SYSTEM
+========================================
+1. Add product
+2. Update product
+3. Delete product
+4. Search product
+5. View inventory
+6. Inventory reports
+7. Sell product / generate receipt
+8. Save inventory
+9. Reload inventory
+0. Exit
+========================================
+Choose an option: 1
+
+--- Add Product ---
+Product ID: 100
+Product name: Wireless Keyboard
+Quantity: 8
+Price: $25
+Low-stock threshold: 5
+Product type (1=Standard, 2=Discounted): 1
+Product added and inventory saved.
+
+Choose an option: 1
+
+--- Add Product ---
+Product ID: 200
+Product name: USB Mouse
+Quantity: 3
+Price: $20
+Low-stock threshold: 5
+Product type (1=Standard, 2=Discounted): 2
+Discount percentage: 10
+Product added and inventory saved.
+
+Choose an option: 6
+
+--- Inventory Report ---
+Total products : 2
+Available stock: 11 units
+Inventory value: $260.00
+Low-stock items: 1
+
+Choose an option: 7
+
+--- New Sale ---
+Product ID: 100
+Quantity to sell: 2
+Sale completed. Receipt saved to last_receipt.txt.
+Total: $50.00
+
+Choose an option: 5
+
+--- Current Inventory ---
+ID      Name                      Type              Qty       Price       Stock
+-----------------------------------------------------------------------------------
+100     Wireless Keyboard         Standard            6        25.00         OK
+200     USB Mouse                 Discounted          3        18.00        LOW
+
+Choose an option: 0
+Inventory saved. Goodbye!
